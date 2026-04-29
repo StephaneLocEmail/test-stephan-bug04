@@ -1,1 +1,0 @@
-# test-stephan-bug04
